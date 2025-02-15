@@ -15,6 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+            desarrollo qa
           Learn React
         </a>
       </header>
